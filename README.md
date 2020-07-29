@@ -1,4 +1,19 @@
-# Static Hosts
+Table of Contents
+- [Static Websites Hosts](#static-hosts)
+  - [Surge](#surge)
+  - [Vercel](#vercel)
+  - [Netlify](#netlify)
+  - [Render](#render)
+  - [Github Pages](#github-pages)
+- [VPS Providers](#vps-providers)
+  - [OVH](#ovh)
+  - [Scaleway](#scaleway)
+  - [Digital Ocean](#digital-ocean)
+  - [Vultr](#vultr)
+- [Shared Hosting](#shared-hosting)
+  - [Dreamhost](#dreamhost)
+  - [Hostgator](#hostgator)
+# Static Websites Hosts
 `Ideal for small static websites with few monthly visitors`
 
 ## [Surge](https://surge.sh/ "https//surge.sh/")
