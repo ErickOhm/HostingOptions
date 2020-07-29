@@ -1,21 +1,21 @@
 # Static Hosts
-* [GitHub Pages](https://pages.github.com/ "https://pages.github.com/")
+## [GitHub Pages](https://pages.github.com/ "https://pages.github.com/")
   * __Free__ - $0 
     *100GB bandwidth
-* [Render](https://render.com/ "https://render.com/")
+## [Render](https://render.com/ "https://render.com/")
   * __Free__ - $0
     * 100 GB bandwidth
     * $0.10/GB Past initial 100GB.  Ingress bandwidth (network requests made by your code) is always free.
-* [Surge](https://surge.sh/ "https//surge.sh/")
+## [Surge](https://surge.sh/ "https//surge.sh/")
   * __Free__ - $0
     * unlimited (?) bandwidth
-* [Vercel](https://vercel.com/ "https://vercel.com/")
+## [Vercel](https://vercel.com/ "https://vercel.com/")
   * __Free__ - $0
     * 100GB bandwidth
   * __Pro__ - $20
     * 1TB bandwidth
 # VPS Providers
-* [OVH](https://www.ovhcloud.com/en/vps/ "https://www.ovhcloud.com/en/vps/")
+## [OVH](https://www.ovhcloud.com/en/vps/ "https://www.ovhcloud.com/en/vps/")
   * __Value__ - $6
     * 1 vCore
     * 2GB - RAM
@@ -31,3 +31,4 @@
     * 8GB - RAM
     * 160GB - Storage
     * 1Gbps - 3TB bandwidth
+  
