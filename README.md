@@ -1,3 +1,4 @@
+<!-- omit in toc -->
 # Websites hosts
 
 A small collection of websites hosts with a special focus on budget solutions, this is not meant for big scale projects but rather small personal sites or medium size businesses. I am not an expert, these providers were picked from recommendations from other developers I know and tech websites who have reviewed them.
@@ -9,22 +10,23 @@ Things to note:
 -   All static website and shared hosting sites (except surge) have free SSL certificates and all have a custom domain option.
 -   As stated before I am no expert always do your own research and look at the reviews from people who have used the service.
 
+<!-- omit in toc -->
 ### Table of Contents
 
--   [Static Websites Hosts](#static-hosts)
-    -   [Surge](#surge)
-    -   [Vercel](#vercel)
-    -   [Netlify](#netlify)
-    -   [Render](#render)
-    -   [Github Pages](#github-pages)
--   [VPS Providers](#vps-providers)
-    -   [Oxide Hosting](#oxide-hosting)
-    -   [Hetzner](#hetzner)
-    -   [Digital Ocean](#digital-ocean)
-    -   [Time 4 VPS](#time4vps)
--   [Shared Hosting](#shared-hosting)
-    -   [Dreamhost](#dreamhost)
-    -   [Hostgator](#hostgator)
+- [Static Websites Hosts](#static-websites-hosts)
+  - [Surge](#surge)
+  - [Vercel](#vercel)
+  - [Netlify](#netlify)
+  - [Render](#render)
+  - [GitHub Pages](#github-pages)
+- [VPS Providers](#vps-providers)
+  - [Oxide Hosting](#oxide-hosting)
+  - [Hetzner](#hetzner)
+  - [Digital Ocean](#digital-ocean)
+  - [Time4VPS](#time4vps)
+- [Shared Hosting](#shared-hosting)
+  - [Dreamhost](#dreamhost)
+  - [Hostgator](#hostgator)
 
 # Static Websites Hosts
 
