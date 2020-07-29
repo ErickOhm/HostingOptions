@@ -66,15 +66,15 @@
       <li>1TB bandwidth</li>
     </ul>
   </details>
-  <summary>
-    <details>Option 2 - $10</details>
+  <details>
+    <summary>Option 2 - $10</summary>
      <ul>
         <li>1 vCPU</li>
        <li> 2GB - RAM</li>
        <li>50GB - Storage</li>
         <li>2TB bandwidth</li>
      </ul>
-  </summary>
+  </details>
  <details>
     <summary>Option 3 - $15</summary>
      <ul>
@@ -114,7 +114,7 @@
         <i>1TB bandwidth</i>
       </ul>
   </details>
-  <detils>
+  <details>
    <summary> Option 3 - $10</summary>
      <ul>
         <li>1 CPU</li>
@@ -122,7 +122,7 @@
         <li>55GB - Storage</li>
         <li>2TB bandwidth</li>
      </ul>
-  </detils>
+  </details>
   <details>
     <summary>Option 4 - $20</summary>
       <ul>
