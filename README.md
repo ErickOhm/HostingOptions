@@ -69,64 +69,124 @@ Things to note:
 
 `Ideal for small to medium sized backends or apps`
 
-## [OVH](https://www.ovhcloud.com/en/vps/ "https://www.ovhcloud.com/en/vps/")
+## [Oxide Hosting](https://oxide.host/virtual-servers-classic "https://oxide.host/virtual-servers-classic")
 
-  <details>
-     <summary>Value - $6</summary>
-      <ul>
-        <li>1 vCore</li>
-        <li>2GB RAM</li>
-        <li>40GB storage</li>
-        <li>250Mbps 1TB bandwidth</li>
-      </ul>
-  </details>
-  <details>
-    <summary>Essential - $11.50</summary>
-      <ul>
-        <li>2 vCore</li>
-        <li>4GB RAM</li>
-        <li>80GB storage</li>
-        <li>500Mbps 2TB bandwidth</li>
-      </ul>
-  </details>
-  <details>
-    <summary>Comfort - $23</summary>
-     <ul>
-        <li>4 vCore</li>
-        <li>8GB RAM</li>
-        <li>160GB storage</li>
-        <li>1Gbps 3TB bandwidth</li>
-     </ul>
-  </details>
-
-## [Scaleway](https://www.scaleway.com/en/virtual-instances/development/ "https://www.scaleway.com/en/virtual-instances/development/")
-
-  <details>
-    <summary>DEV1-S - €4.99 or ~$5.86</summary>
-      <ul>
-        <li>2 vCPU</li>
-        <li>2GB RAM</li>
-        <li>20GB storage</li>
-        <li>200Mbps unlimited* bandwidth</li>
-      </ul>
-  </details>
-  <details>
-    <summary>DEV1-M - €9.99 or ~$11.74</summary>
+<details>
+    <summary>VPS Classic XS - $4.62</summary>
     <ul>
-        <li>3 vCPU</li>
-        <li>4GB RAM</li>
-        <li>40GB storage</li>
-        <li>300Mbps unlimited* bandwidth</li>
+      <li>1 vCPU 3.70GHz</li>
+      <li>2GB RAM</li>
+      <li>32GB SSD storage</li>
+      <li>200mbps unmetered bandwidth</li>
+      <li>Automated backups</li>
+    </ul>
+  </details>
+<details>
+    <summary>VPS Classic S - $8.49</summary>
+    <ul>
+      <li>1 vCPU 3.70GHz</li>
+      <li>4GB RAM</li>
+      <li>64GB SSD storage</li>
+      <li>200mbps unmetered bandwidth</li>
+      <li>Automated backups</li>
     </ul>
   </details>
   <details>
-    <summary>DEV1-L - €19.99 or ~$23.50</summary>
-     <ul>
+    <summary>VPS Classic M - $12.35</summary>
+    <ul>
+      <li>2 vCPU 3.70GHz</li>
+      <li>6GB RAM</li>
+      <li>96GB SSD storage</li>
+      <li>200mbps unmetered bandwidth</li>
+      <li>Automated backups</li>
+    </ul>
+  </details>
+  <details>
+    <summary>VPS Classic L - $16.22</summary>
+    <ul>
+      <li>2 vCPU 3.70GHz</li>
+      <li>8GB RAM</li>
+      <li>128GB SSD storage</li>
+      <li>200mbps unmetered bandwidth</li>
+      <li>Automated backups</li>
+    </ul>
+  </details>
+  <details>
+    <summary>VPS Classic XL - $23.94</summary>
+    <ul>
+      <li>3 vCPU 3.70GHz</li>
+      <li>12GB RAM</li>
+      <li>160GB SSD storage</li>
+      <li>200mbps unmetered bandwidth</li>
+      <li>Automated backups</li>
+    </ul>
+  </details>
+  <details>
+    <summary>VPS Classic XXL - $31.67</summary>
+    <ul>
+      <li>3 vCPU 3.70GHz</li>
+      <li>16GB RAM</li>
+      <li>192GB SSD storage</li>
+      <li>200mbps unmetered bandwidth</li>
+      <li>Automated backups</li>
+    </ul>
+  </details>
+
+## [Hetzner](https://www.hetzner.com/cloud/?1 "https://www.hetzner.com/cloud/?1")
+
+  <details>
+    <summary>CX11 - €2.89</summary>
+    <ul>
+      <li>1 vCPU</li>
+      <li>2GB RAM</li>
+      <li>20GB storage</li>
+      <li>20TB bandwidth</li>
+    </ul>
+  </details>
+  <details>
+    <summary>CPX11 - €4.05</summary>
+    <ul>
+      <li>2 vCPU</li>
+      <li>2GB RAM</li>
+      <li>40GB storage</li>
+      <li>20TB bandwidth</li>
+    </ul>
+  </details>
+  <details>
+    <summary>CX21 - €5.68</summary>
+    <ul>
+      <li>2 vCPU</li>
+      <li>4GB RAM</li>
+      <li>40GB storage</li>
+      <li>20TB bandwidth</li>
+    </ul>
+  </details>
+    <details>
+    <summary>CPX21 - €8.00</summary>
+    <ul>
+      <li>3 vCPU</li>
+      <li>4GB RAM</li>
+      <li>80GB storage</li>
+      <li>20TB bandwidth</li>
+    </ul>
+  </details>
+    <details>
+    <summary>CX31 - €10.32</summary>
+    <ul>
+      <li>2 vCPU</li>
+      <li>8GB RAM</li>
+      <li>80GB storage</li>
+      <li>20TB bandwidth</li>
+    </ul>
+  </details>
+    <details>
+      <summary>CPX31 - €14.38</summary>
+      <ul>
         <li>4 vCPU</li>
         <li>8GB RAM</li>
-        <li>80GB storage</li>
-        <li>400Mbps unlimited* bandwidth</li>
-     </ul>
+        <li>160GB storage</li>
+        <li>20TB bandwidth</li>
+      </ul>
   </details>
 
 ## [Digital Ocean](https://www.digitalocean.com/pricing/#droplet "https://www.digitalocean.com/pricing/#droplet")
@@ -136,7 +196,7 @@ Things to note:
     <ul>
       <li>1 vCPU</li>
       <li>1GB RAM</li>
-      <li>25GB storage</li>
+      <li>25GB SSD storage</li>
       <li>1TB bandwidth</li>
     </ul>
   </details>
@@ -145,7 +205,7 @@ Things to note:
      <ul>
         <li>1 vCPU</li>
        <li> 2GB RAM</li>
-       <li>50GB storage</li>
+       <li>50GB SSD storage</li>
         <li>2TB bandwidth</li>
      </ul>
   </details>
@@ -154,7 +214,7 @@ Things to note:
      <ul>
         <li>1 vCPU / 2 vCPU / 3 vCPU</li>
         <li>3GB / 2GB / 1GB RAM</li>
-        <li>60GB storage</li>
+        <li>60GB SSD storage</li>
         <li>3TB bandwidth</li>
      </ul>
  </details>
@@ -163,48 +223,57 @@ Things to note:
       <ul>
         <li>2 vCPU</li>
         <li>4GB RAM</li>
-        <li>80GB storage</li>
+        <li>80GB SSD storage</li>
         <li>4TB bandwidth</li>
       </ul>
   </details>
 
-## [Vultr](https://www.vultr.com/products/cloud-compute/ "https://www.vultr.com/products/cloud-compute/")
+## [Time4VPS](https://www.time4vps.com/linux-vps/ "https://www.time4vps.com/linux-vps/")
 
   <details>
-    <summary>Option 1 - $3.50</summary>
-      <ul>
-        <li>1 CPU</li>
-        <li>512MB RAM</li>
-        <li>10GB storage</li>
-        <li>0.5TB bandwidth</li>
-      </ul>
+    <summary>Linux 2 - €3.99</summary>
+    <ul>
+      <li>1 vCPU 2.6GHz</li>
+      <li>2GB RAM</li>
+      <li>20GB storage</li>
+      <li>2TB bandwidth</li>
+    </ul>
   </details>
-  <details>
-    <summary>Option 2 - $5</summary>
-      <ul>
-        <li>1 CPU</li>
-        <li> 1GB RAM</li>
-        <li>25GB storage</li>
-        <li>1TB bandwidth</li>
-      </ul>
+    <details>
+    <summary>Linux 4 - €5.99</summary>
+    <ul>
+      <li>1 vCPU 2.6GHz</li>
+      <li>4GB RAM</li>
+      <li>40GB storage</li>
+      <li>4TB bandwidth</li>
+    </ul>
   </details>
-  <details>
-   <summary> Option 3 - $10</summary>
-     <ul>
-        <li>1 CPU</li>
-        <li>2GB RAM</li>
-        <li>55GB storage</li>
-        <li>2TB bandwidth</li>
-     </ul>
+    <details>
+    <summary>Linux 8 - €9.99</summary>
+    <ul>
+      <li>2 vCPU 2.6GHz</li>
+      <li>8GB RAM</li>
+      <li>80GB storage</li>
+      <li>8TB bandwidth</li>
+    </ul>
   </details>
-  <details>
-    <summary>Option 4 - $20</summary>
-      <ul>
-        <li>2 CPU</li>
-        <li>4GB RAM</li>
-        <li>80GB storage</li>
-        <li>3TB bandwidth</li>
-      </ul>
+    <details>
+    <summary>Linux 16 - €17.99</summary>
+    <ul>
+      <li>4 vCPU 2.6GHz</li>
+      <li>16GB RAM</li>
+      <li>160GB storage</li>
+      <li>160TB bandwidth</li>
+    </ul>
+  </details>
+    <details>
+    <summary>Linux 24 - €33.99</summary>
+    <ul>
+      <li>6 vCPU 2.6GHz</li>
+      <li>24GB RAM</li>
+      <li>240GB storage</li>
+      <li>24TB bandwidth</li>
+    </ul>
   </details>
 
 # Shared Hosting
