@@ -16,16 +16,20 @@
     * 1TB bandwidth
 # VPS Providers
 ## [OVH](https://www.ovhcloud.com/en/vps/ "https://www.ovhcloud.com/en/vps/")
-  * __Value__ - $6
-    * 1 vCore
-    * 2GB - RAM
-    * 40GB - Storage
-    * 250Mbps - 1TB bandwidth
-  * __Essential__ - $11.50
-    * 2 vCore
-    * 4GB - RAM
-    * 80GB - Storage
-    * 500Mbps - 2TB bandwidth
+  <details>
+     <summary>__Value__ - $6</summary>
+      <p>1 vCore</p>
+      <p>2GB - RAM</p>
+      <p>40GB - Storage</p>
+      <p>250Mbps - 1TB bandwidth</p>
+  </details>
+  <details>
+    <summary>__Essential__ - $11.50</summary>
+      <p>2 vCore</p>
+      <p>4GB - RAM</p>
+      <p>80GB - Storage</p>
+      <p>500Mbps - 2TB bandwidth</p>
+  </details>
   * __Comfort__ - $23
     * 4 vCore
     * 8GB - RAM
