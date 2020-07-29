@@ -222,5 +222,6 @@
       <li>Unmetered bandwidth</li>
       <li>Unlimited websites</li>
       <li>SSL certificate</li>
+      <li>Dedicated IP</li>
     </ul>
   </details>
