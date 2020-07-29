@@ -1,20 +1,9 @@
 # Static Hosts
 
-## [GitHub Pages](https://pages.github.com/ "https://pages.github.com/")
-
--   **Free** - \$0
-    -100GB bandwidth
-
-## [Render](https://render.com/ "https://render.com/")
-
--   **Free** - \$0
-    -   100 GB bandwidth
-    -   \$0.10/GB Past initial 100GB. Ingress bandwidth (network requests made by your code) is always free.
-
 ## [Surge](https://surge.sh/ "https//surge.sh/")
 
 -   **Free** - \$0
-    -   unlimited (?) bandwidth
+    -   unlimited bandwidth
 
 ## [Vercel](https://vercel.com/ "https://vercel.com/")
 
@@ -22,6 +11,24 @@
     -   100GB bandwidth
 -   **Pro** - \$20
     -   1TB bandwidth
+
+## [Netlify](https://surge.sh "https://surge.sh")
+
+-   **Free** - \$0
+    -   100GB bandwidth
+-   **Pro** - \$19
+    -   400GB bandwidth
+
+## [Render](https://render.com/ "https://render.com/")
+
+-   **Free** - \$0
+    -   100 GB bandwidth
+    -   \$0.10/GB Past initial 100GB. Ingress bandwidth (network requests made by your code) is always free.
+
+## [GitHub Pages](https://pages.github.com/ "https://pages.github.com/")
+
+-   **Free** - \$0
+    -100GB bandwidth
 
 # VPS Providers
 
@@ -52,6 +59,36 @@
         <li>8GB - RAM</li>
         <li>160GB - Storage</li>
         <li>1Gbps - 3TB bandwidth</li>
+     </ul>
+  </details>
+
+## [Scaleway](https://www.scaleway.com/en/virtual-instances/development/ "https://www.scaleway.com/en/virtual-instances/development/")
+
+  <details>
+    <summary>DEV1-S - €4.99 or ~$5.86</summary>
+      <ul>
+        <li>2 vCPU</li>
+        <li>2GB - RAM</li>
+        <li>20GB - Storage</li>
+        <li>200Mbps - unlimited* bandwidth</li>
+      </ul>
+  </details>
+  <details>
+    <summary>DEV1-M - €9.99 or ~$11.74</summary>
+    <ul>
+        <li>3 vCPU</li>
+        <li>4GB - RAM</li>
+        <li>40GB - Storage</li>
+        <li>300Mbps - unlimited* bandwidth</li>
+    </ul>
+  </details>
+  <details>
+    <summary>DEV1-L - €19.99 or ~$23.50</summary>
+     <ul>
+        <li>4 vCPU</li>
+        <li>8GB - RAM</li>
+        <li>80GB - Storage</li>
+        <li>400Mbps - unlimited* bandwidth</li>
      </ul>
   </details>
 
@@ -131,34 +168,4 @@
         <li>80GB - Storage</li>
         <li>3TB bandwidth</li>
       </ul>
-  </details>
-
-## [Scaleway](https://www.scaleway.com/en/virtual-instances/development/ "https://www.scaleway.com/en/virtual-instances/development/")
-
-  <details>
-    <summary>DEV1-S - €4.99 or ~$5.86</summary>
-      <ul>
-        <li>2 vCPU</li>
-        <li>2GB - RAM</li>
-        <li>20GB - Storage</li>
-        <li>200Mbps - unlimited* bandwidth</li>
-      </ul>
-  </details>
-  <details>
-    <summary>DEV1-M - €9.99 or ~$11.74</summary>
-    <ul>
-        <li>3 vCPU</li>
-        <li>4GB - RAM</li>
-        <li>40GB - Storage</li>
-        <li>300Mbps - unlimited* bandwidth</li>
-    </ul>
-  </details>
-  <details>
-    <summary>DEV1-L - €19.99 or ~$23.50</summary>
-     <ul>
-        <li>4 vCPU</li>
-        <li>8GB - RAM</li>
-        <li>80GB - Storage</li>
-        <li>400Mbps - unlimited* bandwidth</li>
-     </ul>
   </details>
