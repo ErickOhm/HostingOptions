@@ -1,4 +1,5 @@
 # Static Hosts
+`Ideal for small static websites with few monthly visitors`
 
 ## [Surge](https://surge.sh/ "https//surge.sh/")
 
@@ -32,6 +33,8 @@
     -100GB bandwidth
 
 # VPS Providers
+
+`Ideal for small to medium sized backends or apps`
 
 ## [OVH](https://www.ovhcloud.com/en/vps/ "https://www.ovhcloud.com/en/vps/")
 
@@ -172,6 +175,7 @@
   </details>
 
 # Shared Hosting
+`Ideal for big static websites with many monthly visitors`
 
 ## [Dreamhost](https://www.dreamhost.com/hosting/shared/ "https://www.dreamhost.com/hosting/shared/")
 
