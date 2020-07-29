@@ -225,6 +225,7 @@
       <li>Cloudfare CDN</li>
     </ul>
   </details>
+  <details>
       <summary>Choice Plus - $14.99</summary>
     <ul>
       <li>Unlimited storage</li>
@@ -234,6 +235,7 @@
       <li>Site backup</li>
     </ul>
   </details>
+  <details>
       <summary>Pro - $23.99</summary>
     <ul>
       <li>Unlimited storage</li>
