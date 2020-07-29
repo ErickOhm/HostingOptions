@@ -173,75 +173,54 @@
 
 # Shared Hosting
 
-## [Namecheap](https://www.namecheap.com/hosting/shared/ "https://www.namecheap.com/hosting/shared/")
+## [Dreamhost](https://www.dreamhost.com/hosting/shared/ "https://www.dreamhost.com/hosting/shared/")
 
   <details>
-    <summary>Stellar - $2.88</summary>
-    <ul>
-      <li>20GB storage</li>
-      <li>Unmetered bandwidth</li>
-      <li>3 websites</li>
-      <li>Free CDN 50GB/mo</li>
-    </ul>
-  </details>
-  <details>
-    <summary>Stellar Plus - $4.88</summary>
-    <ul>
-      <li>Unmetered storage</li>
-      <li>Unmetered bandwidth</li>
-      <li>Unlimited websites</li>
-      <li>AutoBackup</li>
-      <li>Free CDN 50GB/mo</li>
-    </ul>
-  </details>
-  <details>
-    <summary>Stellar Business - $8.88</summary>
-    <ul>
-      <li>50GB storage</li>
-      <li>Unmetered bandwidth</li>
-      <li>Unlimited websites</li>
-      <li>AutoBackup $ Cloud Storage</li>
-      <li>Free CDN 50GB/mo</li>
-    </ul>
-  </details>
-
-## [Bluehost](https://www.bluehost.com/hosting/shared "https://www.bluehost.com/hosting/shared")
-
-  <details>
-    <summary>Basic - $7.99</summary>
+    <summary>Shared Starter - $6.99</summary>
     <ul>
       <li>50GB storage</li>
       <li>Unmetered bandwidth</li>
       <li>1 website</li>
-      <li>Cloudfare CDN</li>
+      <li>5 subdomains</li>
+      <li>Available SSL certificate</li>
     </ul>
   </details>
   <details>
-    <summary>Plus - $10.99</summary>
+    <summary>Shared Unlimited - $11.99</summary>
     <ul>
       <li>Unlimited storage</li>
       <li>Unmetered bandwidth</li>
       <li>Unlimited websites</li>
-      <li>Cloudfare CDN</li>
+      <li>Pre-installed SSL certificate</li>
+    </ul>
+  </details>
+
+## [Hostgator](https://www.hostgator.com/web-hosting "https://www.hostgator.com/web-hosting")
+
+  <details>
+    <summary>Hatchling - $10.95</summary>
+    <ul>
+      <li>Unmetered storage</li>
+      <li>Unmetered bandwidth</li>
+      <li>1 website</li>
+      <li>SSL certificate</li>
     </ul>
   </details>
   <details>
-      <summary>Choice Plus - $14.99</summary>
+    <summary>Baby - $11.95</summary>
     <ul>
-      <li>Unlimited storage</li>
+      <li>Unmetered storage</li>
       <li>Unmetered bandwidth</li>
       <li>Unlimited websites</li>
-      <li>Cloudfare CDN</li>
-      <li>Site backup</li>
+      <li>SSL certificate</li>
     </ul>
   </details>
   <details>
-      <summary>Pro - $23.99</summary>
+      <summary>Business - $16.95</summary>
     <ul>
-      <li>Unlimited storage</li>
+      <li>Unmetered storage</li>
       <li>Unmetered bandwidth</li>
       <li>Unlimited websites</li>
-      <li>Cloudfare CDN</li>
-      <li>High performance</li>
+      <li>SSL certificate</li>
     </ul>
   </details>
