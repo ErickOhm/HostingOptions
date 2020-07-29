@@ -1,26 +1,44 @@
-Table of Contents
-- [Static Websites Hosts](#static-hosts)
-  - [Surge](#surge)
-  - [Vercel](#vercel)
-  - [Netlify](#netlify)
-  - [Render](#render)
-  - [Github Pages](#github-pages)
-- [VPS Providers](#vps-providers)
-  - [OVH](#ovh)
-  - [Scaleway](#scaleway)
-  - [Digital Ocean](#digital-ocean)
-  - [Vultr](#vultr)
-- [Shared Hosting](#shared-hosting)
-  - [Dreamhost](#dreamhost)
-  - [Hostgator](#hostgator)
+# Websites hosts
+
+A small collection of websites hosts with a special focus on budget solutions, this is not meant for big scale projects but rather small personal sites or medium size businesses. I am not an expert, these providers were picked from recommendations from other developers I know and tech websites who have reviewed them.
+
+Things to note:
+
+-   Some sites call website traffic "bandwidth", for simplicity I wrote it the same way they advertise it as.
+-   Some sites advertise "unlimited" bandwidth but nothing is trully unlimited, for the sites I was able to get additional information on I added the actual limit stated in their Fair Use Policies.
+-   All static website and shared hosting sites (except surge) have free SSL certificates and all have a custom domain option.
+-   As stated before I am no expert always do your own research and look at the reviews from people who have used the service.
+
+### Table of Contents
+
+-   [Static Websites Hosts](#static-hosts)
+    -   [Surge](#surge)
+    -   [Vercel](#vercel)
+    -   [Netlify](#netlify)
+    -   [Render](#render)
+    -   [Github Pages](#github-pages)
+-   [VPS Providers](#vps-providers)
+    -   [OVH](#ovh)
+    -   [Scaleway](#scaleway)
+    -   [Digital Ocean](#digital-ocean)
+    -   [Vultr](#vultr)
+-   [Shared Hosting](#shared-hosting)
+    -   [Dreamhost](#dreamhost)
+    -   [Hostgator](#hostgator)
+
 # Static Websites Hosts
+
 `Ideal for small static websites with few monthly visitors`
 
 ## [Surge](https://surge.sh/ "https//surge.sh/")
 
--   **Free** - \$0
+-   **Surge** - \$0
     -   Unlimited bandwidth
     -   Basic SSL
+-   **Surge Professional** - \$30
+    -   Unlimited projects
+    -   Unlimited bandwidth
+    -   Custom SSL
 
 ## [Vercel](https://vercel.com/ "https://vercel.com/")
 
@@ -190,6 +208,7 @@ Table of Contents
   </details>
 
 # Shared Hosting
+
 `Ideal for big static websites with many monthly visitors`
 
 ## [Dreamhost](https://www.dreamhost.com/hosting/shared/ "https://www.dreamhost.com/hosting/shared/")
