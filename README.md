@@ -111,7 +111,7 @@
         <li>1 CPU</li>
         <li> 1GB - RAM</li>
         <li>25GB - Storage</li>
-        <i>1TB bandwidth</i>
+        <li>1TB bandwidth</li>
       </ul>
   </details>
   <details>
