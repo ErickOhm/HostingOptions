@@ -31,7 +31,7 @@
     -100GB bandwidth
 
 <details>
-  <h1><summary>1>VPS Providers</summary></h1>
+  <h1><summary>VPS Providers</summary></h1>
   
   ## [OVH](https://www.ovhcloud.com/en/vps/ "https://www.ovhcloud.com/en/vps/")
   
