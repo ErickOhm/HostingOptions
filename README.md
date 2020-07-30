@@ -6,7 +6,7 @@
       <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" />
     </a>
   <a href="https://github.com/erickmack/hostingoptions/blob/master/LICENSE" target="_blank">
-      <img alt="License: GNU GPLv3" src="https://img.shields.io/github/license/erickmack/hostingoptions" />
+      <img alt="License: GNU GPLv3" src="https://img.shields.io/github/license/erickmack/hostingoptions?style=flat-square" />
     </a>
       <a href="https://twitter.com/eriickmack" target="_blank">
       <img alt="Twitter: eriickmack" src="https://img.shields.io/twitter/follow/eriickmack.svg?style=social" />
