@@ -320,7 +320,7 @@ Things to note:
       <li>4 vCPU 2.6GHz</li>
       <li>16GB RAM</li>
       <li>160GB storage</li>
-      <li>160TB bandwidth</li>
+      <li>16TB bandwidth</li>
     </ul>
   </details>
     <details>
