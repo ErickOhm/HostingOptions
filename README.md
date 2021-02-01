@@ -48,25 +48,40 @@ Things to note:
 
 -   **Surge** - \$0
     -   Unlimited bandwidth
+    -   Unlimited publishing
+    -   Custom domain
     -   Basic SSL
 -   **Surge Professional** - \$30
     -   Unlimited projects
     -   Unlimited bandwidth
+    -   Unlimited publishing
     -   Custom SSL
+    -   Custom redirect
+    -   Password protection
+    -   CORS
 
 ## [Vercel](https://vercel.com/ "https://vercel.com/")
 
 -   **Free** - \$0
     -   100GB bandwidth
+    -   HTTPS-enabled Custom Domains
+    -   Continuos deployment with Git
+    -   High-performance Edge Netowrk
+    -   Unlimited Websites & APIs
+    -   Serverless Functions in Node.js, Go, and more
 -   **Pro** - \$20
     -   1TB bandwidth
 
-## [Netlify](https://surge.sh "https://surge.sh")
+## [Netlify](https://www.netlify.com/ "https://www.netlify.com/")
 
 -   **Free** - \$0
-    -   100GB bandwidth
+    -   100GB bandwidth / then $20 per 100
+    -   Automated builds from Git
+    -   Deploy to global Edge network
+    -   Instant rollbacks
+    -   Static assets & dynamic serverless functions
 -   **Pro** - \$19
-    -   400GB bandwidth
+    -   400GB bandwidth / then $20 per 100
 
 ## [Render](https://render.com/ "https://render.com/")
 
