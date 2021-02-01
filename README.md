@@ -346,7 +346,7 @@ Things to note:
       <li>Unmetered bandwidth</li>
       <li>1 website</li>
       <li>5 subdomains</li>
-      <li>Available SSL certificate</li>
+      <li>Free SSL Certificate</li>
     </ul>
   </details>
   <details>
@@ -355,7 +355,8 @@ Things to note:
       <li>Unlimited storage</li>
       <li>Unmetered bandwidth</li>
       <li>Unlimited websites</li>
-      <li>Pre-installed SSL certificate</li>
+      <li>Email accounts @ your domain</li>
+      <li>Free SSL Certificate</li>
     </ul>
   </details>
 
