@@ -174,7 +174,7 @@ Things to note:
 ## [Hetzner](https://www.hetzner.com/cloud/?1 "https://www.hetzner.com/cloud/?1")
 
   <details>
-    <summary>CX11 - €2.89</summary>
+    <summary>CX11 - €2.96</summary>
     <ul>
       <li>1 vCPU</li>
       <li>2GB RAM</li>
@@ -183,7 +183,7 @@ Things to note:
     </ul>
   </details>
   <details>
-    <summary>CPX11 - €4.05</summary>
+    <summary>CPX11 - €4.15</summary>
     <ul>
       <li>2 vCPU</li>
       <li>2GB RAM</li>
@@ -192,7 +192,7 @@ Things to note:
     </ul>
   </details>
   <details>
-    <summary>CX21 - €5.68</summary>
+    <summary>CX21 - €5.83</summary>
     <ul>
       <li>2 vCPU</li>
       <li>4GB RAM</li>
@@ -201,7 +201,7 @@ Things to note:
     </ul>
   </details>
     <details>
-    <summary>CPX21 - €8.00</summary>
+    <summary>CPX21 - €8.21</summary>
     <ul>
       <li>3 vCPU</li>
       <li>4GB RAM</li>
@@ -210,7 +210,7 @@ Things to note:
     </ul>
   </details>
     <details>
-    <summary>CX31 - €10.32</summary>
+    <summary>CX31 - €10.59</summary>
     <ul>
       <li>2 vCPU</li>
       <li>8GB RAM</li>
@@ -219,7 +219,7 @@ Things to note:
     </ul>
   </details>
     <details>
-      <summary>CPX31 - €14.38</summary>
+      <summary>CPX31 - €14.76</summary>
       <ul>
         <li>4 vCPU</li>
         <li>8GB RAM</li>
