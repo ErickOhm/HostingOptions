@@ -1,7 +1,7 @@
 <!-- omit in toc -->
 # Websites hosts
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000&style=flat-square" />
+  <img alt="Version" src="https://img.shields.io/badge/version-1.1.0-blue.svg?cacheSeconds=2592000&style=flat-square" />
   <a href="https://github.com/erickmack/hostingOptions/graphs/commit-activity" target="_blank">
       <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" />
     </a>
@@ -19,8 +19,8 @@ Things to note:
 
 -   Some sites call website traffic "bandwidth", for simplicity I wrote it the same way they advertise it as.
 -   Some sites advertise "unlimited" bandwidth but nothing is trully unlimited, for the sites I was able to get additional information on I added the actual limit stated in their Fair Use Policies.
--   All static website and shared hosting sites (except surge) have free SSL certificates and all have a custom domain option.
 -   As stated before I am no expert always do your own research and look at the reviews from people who have used the service.
+-   Last update: **2021-01-31**
 
 <!-- omit in toc -->
 ### Table of Contents
