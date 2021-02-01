@@ -251,8 +251,8 @@ Things to note:
  <details>
     <summary>Option 3 - $15</summary>
      <ul>
-        <li>1 vCPU / 2 vCPU / 3 vCPU</li>
-        <li>3GB / 2GB / 1GB RAM</li>
+        <li>2 vCPU</li>
+        <li>2GB</li>
         <li>60GB SSD storage</li>
         <li>3TB bandwidth</li>
      </ul>
@@ -264,6 +264,24 @@ Things to note:
         <li>4GB RAM</li>
         <li>80GB SSD storage</li>
         <li>4TB bandwidth</li>
+      </ul>
+  </details>
+  <details>
+    <summary>Option 5 - $40</summary>
+      <ul>
+        <li>4 vCPU</li>
+        <li>8GB RAM</li>
+        <li>160GB SSD storage</li>
+        <li>5TB bandwidth</li>
+      </ul>
+  </details>
+  <details>
+    <summary>Option 6 - $80</summary>
+      <ul>
+        <li>8 vCPU</li>
+        <li>16GB RAM</li>
+        <li>320GB SSD storage</li>
+        <li>6TB bandwidth</li>
       </ul>
   </details>
 
