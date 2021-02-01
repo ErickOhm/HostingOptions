@@ -105,62 +105,68 @@ Things to note:
 ## [Oxide Hosting](https://oxide.host/virtual-servers-classic "https://oxide.host/virtual-servers-classic")
 
 <details>
-    <summary>VPS Classic XS - $4.62</summary>
+    <summary>VPS Classic XS - $4.93</summary>
     <ul>
-      <li>1 vCPU 3.70GHz</li>
-      <li>2GB RAM</li>
-      <li>32GB SSD storage</li>
+      <li>1 vCore 3.00GHz</li>
+      <li>2GB DDR4 ECC RAM</li>
+      <li>32GB NVMe storage</li>
       <li>200mbps unmetered bandwidth</li>
+      <li>Anti-DDoS Protection</li>
       <li>Automated backups</li>
     </ul>
   </details>
 <details>
-    <summary>VPS Classic S - $8.49</summary>
+    <summary>VPS Classic S - $9.05</summary>
     <ul>
-      <li>1 vCPU 3.70GHz</li>
-      <li>4GB RAM</li>
+      <li>1 vCore 3.00GHz</li>
+      <li>4GB DDR4 ECC RAM</li>
       <li>64GB SSD storage</li>
       <li>200mbps unmetered bandwidth</li>
+      <li>Anti-DDoS Protection</li>
       <li>Automated backups</li>
     </ul>
   </details>
   <details>
-    <summary>VPS Classic M - $12.35</summary>
+    <summary>VPS Classic M - $13.17</summary>
     <ul>
-      <li>2 vCPU 3.70GHz</li>
-      <li>6GB RAM</li>
+      <li>2 vCorse 3.00GHz</li>
+      <li>6GB DDR4 ECC RAM</li>
       <li>96GB SSD storage</li>
       <li>200mbps unmetered bandwidth</li>
+      <li>Anti-DDoS Protection</li>
       <li>Automated backups</li>
     </ul>
   </details>
   <details>
-    <summary>VPS Classic L - $16.22</summary>
+    <summary>VPS Classic L - $17.29</summary>
     <ul>
-      <li>2 vCPU 3.70GHz</li>
-      <li>8GB RAM</li>
+      <li>2 vCore 3.00GHz</li>
+      <li>8GB DDR4 ECC RAM</li>
       <li>128GB SSD storage</li>
       <li>200mbps unmetered bandwidth</li>
+      <li>Anti-DDoS Protection</li>
       <li>Automated backups</li>
     </ul>
   </details>
   <details>
-    <summary>VPS Classic XL - $23.94</summary>
+    <summary>VPS Classic XL - $25.53</summary>
     <ul>
-      <li>3 vCPU 3.70GHz</li>
-      <li>12GB RAM</li>
+      <li>3 vCPU 3.00GHz</li>
+      <li>12GB DDR4 ECC RAM</li>
       <li>160GB SSD storage</li>
       <li>200mbps unmetered bandwidth</li>
+      <li>Anti-DDoS Protection</li>
       <li>Automated backups</li>
     </ul>
   </details>
   <details>
-    <summary>VPS Classic XXL - $31.67</summary>
+    <summary>VPS Classic XXL - $33.76</summary>
     <ul>
-      <li>3 vCPU 3.70GHz</li>
+      <li>3 vCore 3.0GHz</li>
       <li>16GB RAM</li>
       <li>192GB SSD storage</li>
       <li>200mbps unmetered bandwidth</li>
+      <li>Anti-DDoS Protection</li>
       <li>Automated backups</li>
     </ul>
   </details>
