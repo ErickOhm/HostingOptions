@@ -87,7 +87,11 @@ Things to note:
 
 -   **Free** - \$0
     -   100 GB bandwidth
-    -   \$0.10/GB Past initial 100GB. Ingress bandwidth (network requests made by your code) is always free.
+    -   \$0.10/GB Past initial 100GB
+    -   CDN
+    -   Continuos deploys from Git
+    -   Custom domains with fully managed SSL
+    -   Unlimited collaborators
 
 ## [GitHub Pages](https://pages.github.com/ "https://pages.github.com/")
 
