@@ -1,5 +1,7 @@
 <!-- omit in toc -->
+
 # Websites hosts
+
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.1.0-blue.svg?cacheSeconds=2592000&style=flat-square" />
   <a href="https://github.com/erickmack/hostingOptions/graphs/commit-activity" target="_blank">
@@ -17,15 +19,19 @@ A small collection of websites hosts with a special focus on budget solutions, t
 
 Things to note:
 
--   Some sites call website traffic "bandwidth", for simplicity I wrote it the same way they advertise it as.
--   Some sites advertise "unlimited" bandwidth but nothing is trully unlimited, for the sites I was able to get additional information on I added the actual limit stated in their Fair Use Policies.
--   As stated before I am no expert always do your own research and look at the reviews from people who have used the service.
--   Last update: **2021-01-31**
+- Some sites call website traffic "bandwidth", for simplicity I wrote it the same way they advertise it as.
+- Some sites advertise "unlimited" bandwidth but nothing is trully unlimited, for the sites I was able to get additional information on I added the actual limit stated in their Fair Use Policies.
+- As stated before I am no expert always do your own research and look at the reviews from people who have used the service.
+- Last update: **2021-01-31**
 
 <!-- omit in toc -->
+
 ### Table of Contents
 
+- [Websites hosts](#websites-hosts)
+    - [Table of Contents](#table-of-contents)
 - [Static Websites Hosts](#static-websites-hosts)
+  - [Cloudflare Pages](#cloudflare-pages)
   - [Surge](#surge)
   - [Vercel](#vercel)
   - [Netlify](#netlify)
@@ -44,59 +50,80 @@ Things to note:
 
 `Ideal for small static websites with few monthly visitors`
 
+## [Cloudflare Pages](https://pages.cloudflare.com/, "https://pages.cloudflare.com/")
+
+- **Free** - \$0
+  - 1 build at a time
+  - 500 builds per month
+  - Unlimited sites
+  - Unlimited requests
+  - Unlimited bandwidth
+- **Pro** - \$20
+  - 5 concurrent builds
+  - 5,000 builds per month
+  - Unlimited sites
+  - Unlimited requests
+  - Unlimited bandwidth
+- **Business** - \$200
+  - 20 concurrent builds
+  - 20,000 builds per month
+  - Unlimited sites
+  - Unlimited requests
+  - Unlimited bandwidth
+
 ## [Surge](https://surge.sh/ "https//surge.sh/")
 
--   **Surge** - \$0
-    -   Unlimited bandwidth
-    -   Unlimited publishing
-    -   Custom domain
-    -   Basic SSL
--   **Surge Professional** - \$30
-    -   Unlimited projects
-    -   Unlimited bandwidth
-    -   Unlimited publishing
-    -   Custom SSL
-    -   Custom redirect
-    -   Password protection
-    -   CORS
+- **Surge** - \$0
+  - Unlimited bandwidth
+  - Unlimited publishing
+  - Custom domain
+  - Basic SSL
+- **Surge Professional** - \$30
+  - Unlimited projects
+  - Unlimited bandwidth
+  - Unlimited publishing
+  - Custom SSL
+  - Custom redirect
+  - Password protection
+  - CORS
 
 ## [Vercel](https://vercel.com/ "https://vercel.com/")
 
--   **Free** - \$0
-    -   100GB bandwidth
-    -   HTTPS-enabled Custom Domains
-    -   Continuos deployment with Git
-    -   High-performance Edge Netowrk
-    -   Unlimited Websites & APIs
-    -   Serverless Functions in Node.js, Go, and more
--   **Pro** - \$20
-    -   1TB bandwidth
+- **Free** - \$0
+  - 100GB bandwidth
+  - HTTPS-enabled Custom Domains
+  - Continuos deployment with Git
+  - High-performance Edge Netowrk
+  - Unlimited Websites & APIs
+  - Serverless Functions in Node.js, Go, and more
+- **Pro** - \$20
+  - 1TB bandwidth
 
 ## [Netlify](https://www.netlify.com/ "https://www.netlify.com/")
 
--   **Free** - \$0
-    -   100GB bandwidth / then $20 per 100
-    -   Automated builds from Git
-    -   Deploy to global Edge network
-    -   Instant rollbacks
-    -   Static assets & dynamic serverless functions
--   **Pro** - \$19
-    -   400GB bandwidth / then $20 per 100
+- **Free** - \$0
+  - 100GB bandwidth / then $20 per 100
+  - Automated builds from Git
+  - Deploy to global Edge network
+  - Instant rollbacks
+  - Static assets & dynamic serverless functions
+- **Pro** - \$19
+  - 400GB bandwidth / then $20 per 100
 
 ## [Render](https://render.com/ "https://render.com/")
 
--   **Free** - \$0
-    -   100 GB bandwidth
-    -   \$0.10/GB Past initial 100GB
-    -   CDN
-    -   Continuos deploys from Git
-    -   Custom domains with fully managed SSL
-    -   Unlimited collaborators
+- **Free** - \$0
+  - 100 GB bandwidth
+  - \$0.10/GB Past initial 100GB
+  - CDN
+  - Continuos deploys from Git
+  - Custom domains with fully managed SSL
+  - Unlimited collaborators
 
 ## [GitHub Pages](https://pages.github.com/ "https://pages.github.com/")
 
--   **Free** - \$0
-    -100GB bandwidth
+- **Free** - \$0
+  -100GB bandwidth
 
 # VPS Providers
 
