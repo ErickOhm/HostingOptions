@@ -50,7 +50,7 @@ Things to note:
 
 `Ideal for small static websites with few monthly visitors`
 
-## [Cloudflare Pages](https://pages.cloudflare.com/, "https://pages.cloudflare.com/")
+## [Cloudflare Pages](https://pages.cloudflare.com/ "https://pages.cloudflare.com/")
 
 - **Free** - \$0
   - 1 build at a time
