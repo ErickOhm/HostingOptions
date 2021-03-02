@@ -22,7 +22,7 @@ Things to note:
 - Some sites call website traffic "bandwidth", for simplicity I wrote it the same way they advertise it as.
 - Some sites advertise "unlimited" bandwidth but nothing is trully unlimited, for the sites I was able to get additional information on I added the actual limit stated in their Fair Use Policies.
 - As stated before I am no expert always do your own research and look at the reviews from people who have used the service.
-- Last update: **2021-01-31**
+- Last update: **2021-03-02**
 
 <!-- omit in toc -->
 
